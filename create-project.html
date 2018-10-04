@@ -52,15 +52,15 @@
         </div>
         <div class="jumbotron">
           <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6">
               <form>
                 <div class="section info">
                   <legend>Project Information</legend>
                   <div class="form-group">
-                    <label for="stu-f-name">Project Title:</label>:</label>
-                    <input type="text" class="form-control" id="stu-f-name">
-                    <label for="stu-f-name">Project Supervisor:</label>:</label>
-                    <input type="text" class="form-control" id="stu-f-name"><br>
+                    <label for="stu-f-name">Project Title:</label>
+                    <input type="text" class="form-control" id="project-title">
+                    <label for="stu-f-name">Project Supervisor:</label>
+                    <input type="text" class="form-control" id="project-supervisor"><br>
                     <label for="usr">Department:</label>
                     <div class="dropdown">
                       <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">Choose department
@@ -125,17 +125,33 @@
                 </div>
                 <div class="form-group submit">
                   <button class="btn btn-default">Save</button>
-                  <button type="submit" class="btn btn-default">Create</button>
+                  <button type="submit" class="btn btn-default" id="create">Create</button>
                 </div>
 
               </form>
-            
-            <div class="col-md-0">
+            </div>
+            <div class="col-md-6">
+              <legend>Project list</legend>
+              <table class="table" id="project-list">
+                <thead>
+                  <tr>
+                  <th>Project Title</th>
+                  <th>Project Supervisor</th>
+                  <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                      
+
+                </tbody>
+
+              </table>  
 
             </div>
           </div>
         </div>
-      </div>
+        </div>
+      
       <div class="col-md-1">
       </div>
     </div>
