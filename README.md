@@ -1,11 +1,11 @@
-# Introduction
+# Project Description
 
 Graduate Recruitment (GradRec) system is a web based project. It is developed to recruit the graduate students for the suitable project with required supervisor (project faculty). The projects are administered by a project manager.
 
 # Folder Structure
 
 - Documentation
-  - Assignment 1
+  - [Assignment 1](https://github.com/n6600shaw/GradRec/tree/master/Documentation/Assignment_1)
     - *Requirement Documentation*
     - *Usecase Diagram*
     - *Brief Use Case Description*
@@ -14,7 +14,7 @@ Graduate Recruitment (GradRec) system is a web based project. It is developed to
     - *Boundary, Control and Entity Object*
     - *Sequence Diagram*
     - *Activity Diagram*
-  - Assignment 2
+  - [Assignment 2](https://github.com/n6600shaw/GradRec/tree/master/Documentation/Assignment_2)
     - *Extra Detailed Use Case Description(for Make Offer and Accept Offer usecase)*
     - *Design Goals*
     - *Object Modeling*
@@ -24,9 +24,9 @@ Graduate Recruitment (GradRec) system is a web based project. It is developed to
 - Srouce Code
 - README.md
 
-# View the webpage
+# View the Demo Page
 
-To view the webpage, first run the **node server.js** file, then the webpage shall be viewed at url [cs-3.cs.mun.ca](cs-3.cs.mun.ca).
+To view the demo page, first run the **node server.js** file on the server, then the webpage shall be viewable at url [cs-3.cs.mun.ca](cs-3.cs.mun.ca).
 
 For detailed instructions, please refer to **Node Server Implementation** in the **Assignment 2** Folder.
 
