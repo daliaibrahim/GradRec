@@ -4,7 +4,7 @@ Graduate Recruitment (GradRec) system is a web based project. It is developed to
 
 # Folder Structure
 
-- Documentation
+- **Documentation**
   - [Assignment 1](https://github.com/n6600shaw/GradRec/tree/master/Documentation/Assignment_1)
     - *Requirement Documentation*
     - *Usecase Diagram*
@@ -21,8 +21,8 @@ Graduate Recruitment (GradRec) system is a web based project. It is developed to
     - *System Decomposition and Logical Architecture(3-layer)*
     - *Node Server Implementation Manual*
     - *Updated Usecase Diagram*
-- Srouce Code
-- README.md
+- **Srouce Code**
+- **README.md**
 
 # View the Demo Page
 
