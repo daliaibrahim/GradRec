@@ -4,14 +4,22 @@ Graduate Recruitment (GradRec) system is a web based project. It is developed to
 
 # Folder Structure
 
-- GradRec
-  - Documentation
-    - Assignment 1
-    - Assignment 2
-  - Srouce Code
-  - README.md
+- Documentation
+  - Assignment 1
+    - Requirement Documentation
+    - Usecase Diagram 
+    - Brief Use Case Description
+    - Detailed Use Case Description (for Create Profile, Create Project and Establish Common. Channel) 
+    - Class Diagram (Application Modeling)
+    - Boundary, Control and Entity Object
+    - Sequence Diagram
+    - Activity Diagram 
+  - Assignment 2
+    - TBD
+- Srouce Code
+- README.md
 
-# Group members
+# Group members (Group 3)
 
 - Dalia Ibrahim
 - Hailong Feng
