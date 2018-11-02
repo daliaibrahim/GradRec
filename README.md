@@ -26,7 +26,7 @@ Graduate Recruitment (GradRec) system is a web based project. It is developed to
 
 # View the webpage
 
-To view the webpage, first to run the **node server.js** file, then the webpage shall be viewed at url [cs-3.cs.mun.ca](cs-3.cs.mun.ca).
+To view the webpage, first run the **node server.js** file, then the webpage shall be viewed at url [cs-3.cs.mun.ca](cs-3.cs.mun.ca).
 
 For detailed instructions, please refer to **Node Server Implementation** in the **Assignment 2** Folder.
 
