@@ -21,7 +21,7 @@ Graduate Recruitment (GradRec) system is a web based project. It is developed to
     - *System Decomposition and Logical Architecture(3-layer)*
     - *Node Server Implementation Manual*
     - *Updated Usecase Diagram*
-- **Souce Code**
+- **Source Code**
 - **README.md**
 
 # View the Demo Page
